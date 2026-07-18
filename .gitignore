@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Original paper repository used only for reference
+paper_reference/
+
+# Operating system files
+.DS_Store
+Thumbs.db
